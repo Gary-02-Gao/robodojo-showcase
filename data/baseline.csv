@@ -1,0 +1,6 @@
+task,pi0_successes,pi0_valid,pi05_successes,pi05_valid
+push_T,0,20,0,20
+stack_bowls,2,20,16,20
+cover_blocks,2,20,0,20
+insert_tubes,0,20,0,20
+classify_objects,0,20,3,20
